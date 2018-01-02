@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "A barebones tic tac toe game for the command line",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uvilchis/tic-tac-toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uvilchis/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/uvilchis/tic-tac-toe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
